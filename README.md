@@ -10,3 +10,7 @@ In Mathematica, you can load the package via
 In Maple, you can load it via
 
 `read "<file location>/RationalizeRoots.mpl"`
+
+# Authors / Developers
+
+Marco Besier, Pascal Wasser, Stefan Weinzierl
