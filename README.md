@@ -1,7 +1,7 @@
 # RationalizeRoots
 RationalizeRoots is a Mathematica and Maple package for the rationalization of square roots.
 
-# Installation
+## Installation
 
 In Mathematica, you can load the package via
 
@@ -11,6 +11,6 @@ In Maple, you can load it via
 
 `read "<file location>/RationalizeRoots.mpl"`
 
-# Authors / Developers
+## Authors / Developers
 
 Marco Besier, Pascal Wasser, Stefan Weinzierl
