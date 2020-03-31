@@ -14,3 +14,7 @@ In Maple, you can load it via
 ## Authors / Developers
 
 Marco Besier, Pascal Wasser, Stefan Weinzierl
+
+## Further Reading
+
+You can learn more about the functionality of the package and its mathematical background in the original [paper](https://arxiv.org/pdf/1910.13251.pdf). 
