@@ -3,6 +3,10 @@ RationalizeRoots is a Mathematica and Maple package for the rationalization of s
 
 ## Installation
 
+For both, Mathematica and Maple, all of the necessary source code is contained in a single file that you can find in this GitHub repository:
+
+`RationalizeRoots.m` for Mathematica and `RationalizeRoots.mpl` for Maple.
+
 In Mathematica, you can load the package via
 
 `Get["<file location>/RationalizeRoots.m"]`
