@@ -24,7 +24,7 @@ RationalizeRoot[Sqrt[1-x^2-y^2]]
 {{x -> 2t[1] / (1+t[1]^2+t[2]^2), y -> -(1-t[1]^2+t[2]^2) / (1+t[1]^2+t[2]^2)}}
 ```
 
-## Authors
+## Contributors
 
 Marco Besier, Pascal Wasser, Stefan Weinzierl
 
