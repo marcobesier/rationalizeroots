@@ -26,7 +26,7 @@ RationalizeRoot[Sqrt[1-x^2-y^2]]
 
 ## Contributors
 
-[Marco Besier](marcobesier.com), Pascal Wasser, Stefan Weinzierl
+[Marco Besier](marcobesier.com), Pascal Wasser, [Stefan Weinzierl](https://particlephysics.uni-mainz.de/weinzierl/)
 
 ## Further Reading
 
