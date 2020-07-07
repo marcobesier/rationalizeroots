@@ -15,22 +15,13 @@ In Maple, you can load it via
 
 `read "<file location>/RationalizeRoots.mpl"`
 
-## Usage
+## Further Reading
 
-In Mathematica:
-
-```
-RationalizeRoot[Sqrt[1-x^2-y^2]]
-{{x -> 2t[1] / (1+t[1]^2+t[2]^2), y -> -(1-t[1]^2+t[2]^2) / (1+t[1]^2+t[2]^2)}}
-```
+You can learn more about the functionality of the package and its mathematical background in the original [paper](https://arxiv.org/pdf/1910.13251.pdf).
 
 ## Contributors
 
 [Marco Besier](marcobesier.com), Pascal Wasser, [Stefan Weinzierl](https://particlephysics.uni-mainz.de/weinzierl/)
-
-## Further Reading
-
-You can learn more about the functionality of the package and its mathematical background in the original [paper](https://arxiv.org/pdf/1910.13251.pdf).
 
 ## License
 
