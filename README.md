@@ -21,7 +21,7 @@ You can learn more about the functionality of the package and its mathematical b
 
 ## Contributors
 
-[Marco Besier](marcobesier.com), Pascal Wasser, [Stefan Weinzierl](https://particlephysics.uni-mainz.de/weinzierl/)
+[Marco Besier](https://marcobesier.com), [Pascal Wasser](https://www.linkedin.com/in/pascal-wasser-277071193/), [Stefan Weinzierl](https://particlephysics.uni-mainz.de/weinzierl/)
 
 ## License
 
